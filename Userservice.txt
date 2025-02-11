@@ -1,1 +1,1 @@
-Get user data
+Get user
